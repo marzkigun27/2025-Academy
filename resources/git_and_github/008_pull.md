@@ -13,7 +13,9 @@ These are the steps that you can use to do this:
 
 1. add the Daskom-Lab/2024-Academy repository as one of remote source by using this command
     ```
-    git remote add original https://github.com/Daskom-Lab/2024-Academy.git
+1. add the Daskom-Lab/2025-Academy repository as one of remote source by using this command
+    ```
+    git remote add original https://github.com/Daskom-Lab/2025-Academy.git
     ```
     You can change `original` to other name such as `uwu` for example :v (just be creative)
 
