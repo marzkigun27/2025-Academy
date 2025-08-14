@@ -8,7 +8,6 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Umar Zaki Gunawan](https://github.com/marzkigun27) [UZY]
   > As a mentor  
   > Website link -> [marzk-porto.vercel.app](https://marzk-porto.vercel.app/)
-
 - [Aliza Nurfitrian Meizahra](https://github.com/Alizaaaja4) [ALL]
   > As a mentor  
   > Website link -> [https://alzanrr.vercel.app/](https://myphorto.vercel.app/)
@@ -33,28 +32,31 @@ Welcome all of you future star candidates who want to strive to attend the acade
 ## Tentors
 
 - [Muhammad Zaenal Abidin Abdurrahman](https://github.com/Zendin110206) [ZEN]
-  > As an academician.  
+  > As an tentors.  
   > Website link -> [zendin.vercel.app](https://zendin.vercel.app/)
 - [Aulia Rahma](https://github.com/pieceofaul) [AUL]
-  > As an academician.  
+  > As an tentors.  
   > Website link -> [https://aulia-rahma-portfolio.vercel.app/](https://aulia-rahma-portfolio.vercel.app/)
 - [Stevannie Pratama](https://github.com/stevanniep) [SNI]
-  > As an academician.  
+  > As an tentors.  
   > Website link -> [https://stevvporto.vercel.app/](https://stevvporto.vercel.app/)
 - [Muhammad Hafiz](https://github.com/mhafiz03) [MHZ]
-  > As an academician.  
+  > As an tentors.  
   > Website link -> [mhafiz03.github.io](https://mhafiz03.github.io/)
 - [Mohammad Fiqri Firmansyah](https://github.com/TakanashaTaryu) [RYU]
-  > As an academician.  
+  > As an tentors.  
   > Website link -> [takanashataryu-porto.vercel.app](https://takanashataryuportofolio-1obowngjf-takanashataryus-projects.vercel.app/)
 - [Umar Zaki Gunawan](https://github.com/marzkigun27) [UZY]
-  > As an academician.  
+  > As an tentors.  
   > Website link -> [marzk-porto.vercel.app](https://marzk-porto.vercel.app/)
 
 ---
 
 ## Academicians
 
+- [Muhammad Raditya Dwi Putra](https://github.com/petorikooru) [VIM]
+  > As an academician.  
+  > Website link -> [petorikooru.github.io](https://petorikooru.github.io/)
 
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2024 <br> Building Skills for Tomorrow's Tech Leaders</p>
