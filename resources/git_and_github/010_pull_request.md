@@ -21,7 +21,7 @@ It will be much easier to understand this by using it directly, so here are the 
 6. After this, go to GitHub and open the Daskom-Lab/2025-Academy repository (remember the Daskom-Lab one, not your own forked repository), then click on the pull request section in the top menu bar, and click the `new pull request` button with the green color.
 
 7. Now you should see something like `base: main <- compare: main`. Here:
-   - **Base branch** is the target branch in the Daskom-Lab/2024-Academy repository where you want your changes to be applied. This is usually a main branch like `main`.
+   - **Base branch** is the target branch in the Daskom-Lab/2025-Academy repository where you want your changes to be applied. This is usually a main branch like `main`.
    - **Compare branch** is the branch from your forked repository containing the changes you want to merge into the target repository. In this case, it is the "development" branch you just created.
 
    Change the **Compare branch** by selecting your "development" branch from the dropdown menu.
