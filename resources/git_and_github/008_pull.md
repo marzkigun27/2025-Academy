@@ -25,4 +25,4 @@ These are the steps that you can use to do this:
     ```
     (if you are wondering what is main here, dont worry, we will discuss it in the next section)
 
-Congratulations now you have the newest changes from Daskom-Lab/2024-Academy, but in this case most likely there will be no new changes in Daskom-Lab/2024-Academy since possibly you were just forking from it seconds ago, but keep in mind, this technique will be useful in the later times.
+Congratulations now you have the newest changes from Daskom-Lab/2025-Academy, but in this case most likely there will be no new changes in Daskom-Lab/2025-Academy since possibly you were just forking from it seconds ago, but keep in mind, this technique will be useful in the later times.
