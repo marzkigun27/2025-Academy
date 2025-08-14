@@ -46,7 +46,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [mhafiz03.github.io](https://mhafiz03.github.io/)
 - [Mohammad Fiqri Firmansyah](https://github.com/TakanashaTaryu) [RYU]
   > As an academician.  
-  > Website link -> [takanashataryu-porto.vercel.app](https://takanashataryuportofolio-1obowngjf-takanashataryus-projects.vercel.app/)
+  > Website link -> [tatsuyaryu.my.id/human](https://takanashataryuportofolio-1obowngjf-takanashataryus-projects.vercel.app/)
 - [Umar Zaki Gunawan](https://github.com/marzkigun27) [UZY]
   > As an academician.  
   > Website link -> [marzk-porto.vercel.app](https://marzk-porto.vercel.app/)
