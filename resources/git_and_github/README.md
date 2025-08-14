@@ -9,7 +9,7 @@ If you are reading this with the intention to learn it, chances are you might no
 [iteration 5>] tugas_kalkulusfinalfinalbanget.doc
 [iteration 6>] tugas_kalkulusAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.doc
 ```
-Dont be shy, i know everyone have ever tried this at least once in their whole life, right, right?!
+Don't be shy, I know everyone has ever tried this at least once in their whole life, right, right?!
 
 Say no more to things like this, this is the reason why Git and Github existed in the first place, they come to save all our lives by making it **a lot** easier to "version" our files, in fact thats also why they are called VCS that stands for Version Control System which is a system that you can use to control each "version" of your files (sounds obvious isnt it ?).
 
