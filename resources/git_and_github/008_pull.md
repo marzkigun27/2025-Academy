@@ -1,7 +1,9 @@
 # Pull
 Alright, now if you have already got your own forked repository of 2024-Academy, next step is to clone it to your local machine, you know how to do it right ? if you forgot then refer back to section 2.
 
-Cool, now question remains, how if there are other people that make changes to Daskom-Lab/2024-Academy and then you want to also have those changes in your version which is your_username/2024-Academy ?
+Alright, now if you have already got your own forked repository of 2025-Academy, next step is to clone it to your local machine, you know how to do it right ? if you forgot then refer back to section 2.
+
+Cool, now question remains, how if there are other people that make changes to Daskom-Lab/2025-Academy and then you want to also have those changes in your version which is your_username/2025-Academy ?
 
 You pull it!
 
