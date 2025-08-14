@@ -57,5 +57,5 @@ Welcome all of you future star candidates who want to strive to attend the acade
 
 
 <div align="center">
-  <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2024 <br> Building Skills for Tomorrow's Tech Leaders</p>
+  <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2025 <br> Building Skills for Tomorrow's Tech Leaders</p>
 </div>
