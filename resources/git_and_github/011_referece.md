@@ -2,4 +2,4 @@
 
 - Branching and Merge : [click] (https://www.youtube.com/watch?v=Q1kHG842HoI)
 
-- commit better with git : [click] (https://www.youtube.com/watch?v=Hlp-9cdImSM)
+- commit better with git : [click](https://www.youtube.com/watch?v=Hlp-9cdImSM)
