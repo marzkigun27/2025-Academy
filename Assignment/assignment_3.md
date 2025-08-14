@@ -31,7 +31,7 @@ In Assignment 3, you will complete several tasks to set up your GitHub repositor
 
 1. **Group Repository Link**: Submit the link to your group's GitHub repository in the Go-Classroom assignment section.
 2. **Proof of Profile Update**: No need to submit, but ensure your profile is updated.
-3. **Pull Request**: Ensure that your pull request to the main Academy 2024 repository is submitted by the deadline.
+3. **Pull Request**: Ensure that your pull request to the main Academy 2025 repository is submitted by the deadline.
 
 ## Notes
 
