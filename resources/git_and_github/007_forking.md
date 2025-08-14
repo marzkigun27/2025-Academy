@@ -25,4 +25,6 @@ This is useful for team collaboration, because one can make changes to a reposit
 
 So for this course, you can now open https://github.com/Daskom-Lab/2024-Academy.git and then fork the repository to your account by clicking on the `fork` button on the upper right corner (in the desktop view).
 
-And by that, you should now have your_username/2024-Academy repository inherited from Daskom-Lab/2024-Academy, congratulations on your first fork 🍴.
+So for this course, you can now open https://github.com/Daskom-Lab/2025-Academy.git and then fork the repository to your account by clicking on the `fork` button on the upper right corner (in the desktop view).
+
+And by that, you should now have your_username/2025-Academy repository inherited from Daskom-Lab/2025-Academy, congratulations on your first fork 🍴.
