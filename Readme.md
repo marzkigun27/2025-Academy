@@ -32,22 +32,22 @@ Welcome all of you future star candidates who want to strive to attend the acade
 ## Tentors
 
 - [Muhammad Zaenal Abidin Abdurrahman](https://github.com/Zendin110206) [ZEN]
-  > As an tentors.  
+  > As a tentor.  
   > Website link -> [zendin.vercel.app](https://zendin.vercel.app/)
 - [Aulia Rahma](https://github.com/pieceofaul) [AUL]
-  > As an tentors.  
+  > As a tentor.  
   > Website link -> [https://aulia-rahma-portfolio.vercel.app/](https://aulia-rahma-portfolio.vercel.app/)
 - [Stevannie Pratama](https://github.com/stevanniep) [SNI]
-  > As an tentors.  
+  > As a tentor.  
   > Website link -> [https://stevvporto.vercel.app/](https://stevvporto.vercel.app/)
 - [Muhammad Hafiz](https://github.com/mhafiz03) [MHZ]
-  > As an tentors.  
+  > As a tentor.  
   > Website link -> [mhafiz03.github.io](https://mhafiz03.github.io/)
 - [Mohammad Fiqri Firmansyah](https://github.com/TakanashaTaryu) [RYU]
-  > As an tentors.  
+  > As a tentor.  
   > Website link -> [takanashataryu-porto.vercel.app](https://takanashataryuportofolio-1obowngjf-takanashataryus-projects.vercel.app/)
 - [Umar Zaki Gunawan](https://github.com/marzkigun27) [UZY]
-  > As an tentors.  
+  > As a tentor.  
   > Website link -> [marzk-porto.vercel.app](https://marzk-porto.vercel.app/)
 
 ---
