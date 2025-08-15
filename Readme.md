@@ -45,7 +45,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [mhafiz03.github.io](https://mhafiz03.github.io/)
 - [Mohammad Fiqri Firmansyah](https://github.com/TakanashaTaryu) [RYU]
   > As a tentor.  
-  > Website link -> [takanashataryu-porto.vercel.app](https://takanashataryuportofolio-1obowngjf-takanashataryus-projects.vercel.app/)
+  > Website link -> [tatsuyaryu.my.id/human](https://www.tatsuyaryu.my.id/human)
 - [Umar Zaki Gunawan](https://github.com/marzkigun27) [UZY]
   > As a tentor.  
   > Website link -> [marzk-porto.vercel.app](https://marzk-porto.vercel.app/)
@@ -59,5 +59,5 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [petorikooru.github.io](https://petorikooru.github.io/)
 
 <div align="center">
-  <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2024 <br> Building Skills for Tomorrow's Tech Leaders</p>
+  <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2025 <br> Building Skills for Tomorrow's Tech Leaders</p>
 </div>
