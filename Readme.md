@@ -8,7 +8,6 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Umar Zaki Gunawan](https://github.com/marzkigun27) [UZY]
   > As a mentor  
   > Website link -> [marzk-porto.vercel.app](https://marzk-porto.vercel.app/)
-
 - [Aliza Nurfitrian Meizahra](https://github.com/Alizaaaja4) [ALL]
   > As a mentor  
   > Website link -> [https://alzanrr.vercel.app/](https://myphorto.vercel.app/)
@@ -55,6 +54,9 @@ Welcome all of you future star candidates who want to strive to attend the acade
 
 ## Academicians
 
+- [Muhammad Raditya Dwi Putra](https://github.com/petorikooru) [VIM]
+  > As an academician.  
+  > Website link -> [petorikooru.github.io](https://petorikooru.github.io/)
 
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2025 <br> Building Skills for Tomorrow's Tech Leaders</p>
