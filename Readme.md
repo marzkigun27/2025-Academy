@@ -62,6 +62,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [showmemycent.vercel.app](https://showmemycent.vercel.app/)
 - [Mochamad Dzikra Auliansyah](https://github.com/Modzarella) [ZET]
   > As an academician.
+- [Alisha Shafira Qolby](https://github.com/lishafira) [LIS]
+  > As an academician.
 
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2025 <br> Building Skills for Tomorrow's Tech Leaders</p>
