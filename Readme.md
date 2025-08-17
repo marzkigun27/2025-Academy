@@ -60,7 +60,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
 
 - [Ahmad Syifa](https://github.com/Guaritore79) [GTR]
   > As an academician.  
-  > Website link -> [portofolio ](https://drive.google.com/drive/u/3/folders/1FWJvRj1BvQoMlW9vZvJQ2-5YC8iB5psf)
+  > Website link -> [Portofolio](https://drive.google.com/drive/u/3/folders/1FWJvRj1BvQoMlW9vZvJQ2-5YC8iB5psf)
 
 
 <div align="center">
