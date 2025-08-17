@@ -22,7 +22,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [adhimf.my.id](https://adhimf.my.id/)
 - [Iga Narendra Pramawijaya](https://github.com/IritaSee) [AND]
   > As a mentor  
-  > Website link -> [iganarendra.my.id](https://iganarendra.my.id/)
+  > Website link -> [pukulenam.id](https://pukulenam.id/)
 - [Muhammad Fakhri Putra Supriyadi](https://github.com/fakhrip) [FAI]
   > As a mentor  
   > Website link -> [thatwas.fun](https://thatwas.fun/)
@@ -61,6 +61,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.  
   > Website link -> [showmemycent.vercel.app](https://showmemycent.vercel.app/)
 - [Mochamad Dzikra Auliansyah](https://github.com/Modzarella) [ZET]
+  > As an academician.
+- [Avinda Novencia Vincent](https://github.com/AvindaNoven) [AVD]
   > As an academician.
 - [Shakia Krisna](https://github.com/shakiakrisss) [SAA]
   > As an academician.
