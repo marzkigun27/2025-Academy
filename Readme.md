@@ -75,6 +75,9 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Zidane Ramadhan](https://github.com/zidanermdh) [ZII]
   > As an academician.
+- [Kayla Priskila Adalia Peranginangin](https://github.com/kaylaperanginangin) [KAY]
+  > As an academician.
+
 
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2025 <br> Building Skills for Tomorrow's Tech Leaders</p>
