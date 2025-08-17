@@ -71,6 +71,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Alisha Shafira Qolby](https://github.com/lishafira) [LIS]
   > As an academician.
+- [Rizal Khairul Hashfi](https://github.com/zalhashfi) [ZAL]
+  > As an academician.
 - [Zidane Ramadhan](https://github.com/zidanermdh) [ZII]
   > As an academician.
 
