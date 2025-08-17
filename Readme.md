@@ -62,6 +62,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [showmemycent.vercel.app](https://showmemycent.vercel.app/)
 - [Mochamad Dzikra Auliansyah](https://github.com/Modzarella) [ZET]
   > As an academician.
+- [Shakia Krisna](https://github.com/shakiakrisss) [SAA]
+  > As an academician.
 - [Alisha Shafira Qolby](https://github.com/lishafira) [LIS]
   > As an academician.
 
