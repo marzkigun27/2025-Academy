@@ -22,7 +22,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [adhimf.my.id](https://adhimf.my.id/)
 - [Iga Narendra Pramawijaya](https://github.com/IritaSee) [AND]
   > As a mentor  
-  > Website link -> [iganarendra.my.id](https://iganarendra.my.id/)
+  > Website link -> [pukulenam.id](https://pukulenam.id/)
 - [Muhammad Fakhri Putra Supriyadi](https://github.com/fakhrip) [FAI]
   > As a mentor  
   > Website link -> [thatwas.fun](https://thatwas.fun/)
@@ -64,12 +64,13 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Ahmad Syifa](https://github.com/Guaritore79) [GTR]
   > As an academician.  
-  > Website link -> [porto](https://drive.google.com/drive/u/3/folders/1FWJvRj1BvQoMlW9vZvJQ2-5YC8iB5psf)
-
-- [Ahmad Syifa](https://github.com/Guaritore79) [GTR]
-  > As an academician.  
   > Website link -> [Portofolio](https://drive.google.com/drive/u/3/folders/1FWJvRj1BvQoMlW9vZvJQ2-5YC8iB5psf)
-
+- [Avinda Novencia Vincent](https://github.com/AvindaNoven) [AVD]
+  > As an academician.
+- [Shakia Krisna](https://github.com/shakiakrisss) [SAA]
+  > As an academician.
+- [Alisha Shafira Qolby](https://github.com/lishafira) [LIS]
+  > As an academician.
 
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2025 <br> Building Skills for Tomorrow's Tech Leaders</p>
