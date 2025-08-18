@@ -75,6 +75,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Zidane Ramadhan](https://github.com/zidanermdh) [ZII]
   > As an academician.
+- [Kayla Priskila Adalia Peranginangin](https://github.com/kaylaperanginangin) [KAY]
+  > As an academician.
 - [Daffa Alwan Aziz] (https://github.com/DNALWANA). [DNA]
   > As an academician
 
