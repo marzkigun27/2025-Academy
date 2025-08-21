@@ -81,9 +81,12 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician
 - [Muhammad Hilman Dzakwanurrofiq](https://github.com/HilmanRofiq) [SKY]
   > As an academician
+- [Syahidah Asma Amanina](https://github.com/syahidahaa) [SYA]
+  > As an academician
+- [Azzachra Keysha Ramadhani M.S](https://github.com/azzachrakeysha) [KEY]
+  > As an academician
 - [Angeluna Ramadhani](https://github.com/anglnarmdhn) [LUN]
   > As an academician
-
 
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2025 <br> Building Skills for Tomorrow's Tech Leaders</p>
