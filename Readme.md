@@ -77,7 +77,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Kayla Priskila Adalia Peranginangin](https://github.com/kaylaperanginangin) [KAY]
   > As an academician.
-- [Daffa Alwan Aziz] (https://github.com/DNALWANA). [DNA]
+- [Daffa Alwan Aziz](https://github.com/DNALWANA). [DNA]
   > As an academician
 - [Muhammad Hilman Dzakwanurrofiq](https://github.com/HilmanRofiq) [SKY]
   > As an academician
@@ -87,7 +87,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician
 - [Angeluna Ramadhani](https://github.com/anglnarmdhn) [LUN]
   > As an academician
-- [Azka Erlangga Putra] (https://github.com/joeldzka) [ZKA]
+- [Azka Erlangga Putra](https://github.com/joeldzka) [ZKA]
   > As an academician
 
 <div align="center">
