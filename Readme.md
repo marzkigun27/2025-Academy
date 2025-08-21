@@ -85,6 +85,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician
 - [Azzachra Keysha Ramadhani M.S](https://github.com/azzachrakeysha) [KEY]
   > As an academician
+- [Angeluna Ramadhani](https://github.com/anglnarmdhn) [LUN]
+  > As an academician
 - [Azka Erlangga Putra] (https://github.com/joeldzka) [ZKA]
   > As an academician
 
