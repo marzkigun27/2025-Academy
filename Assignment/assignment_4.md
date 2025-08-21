@@ -7,21 +7,23 @@ In Assignment 4, you will create a personal portfolio website using HTML, CSS, a
 ## Tasks
 
 1. **Website Development**:
-   - Develop a responsive portfolio website using only HTML, CSS, and JavaScript. Avoid using any frameworks.
+   - Develop a responsive portfolio website using only HTML, CSS, and JavaScript. **Avoid using any frameworks**.
    - Include sections such as About Me, Portfolio (projects you have worked on), Contact Information, and any other relevant sections.
    - Ensure your website is visually appealing, user-friendly, and showcases your skills effectively.
+   - For academician who already have your own portofolio, you can just submit your existence portofolio but you have also help fellow academician especially your teammate to make their own portofolio
 
 2. **Website Hosting**:
    - Deploy your portfolio website to one of the recommended platforms: Vercel, Netlify, or GitHub Pages.
    - Provide the deployed URL of your portfolio website.
 
 3. **Pull Request**:
-   - After deploying your website, submit a pull request to the main Academy 2024 repository to add your deployed portfolio website. Include a brief description of your website in the pull request.
+   - After deploying your website, submit a pull request to the main Academy 2025 repository to add your deployed portfolio website. Include a brief description of your website in the pull request.
+   - Please make sure to communicate first when you want to make a ‘Pull Request’ and check whether the files in the remote repository are synchronized with the files on your local machine. This is important because it is a fundamental part of team collaboration later on.
 
 ## Timeline
 
-- **Start Date**: August 12, 2024
-- **End Date**: August 19, 2024, at 3:00 PM WIB
+- **Start Date**: August 21, 2025
+- **End Date**: August 27, 2025, at 6:00 PM WIB
 
 ## Submission
 
@@ -40,4 +42,4 @@ If you encounter any problems or have any questions, please contact the instruct
 
 Good luck and enjoy building your portfolio!
 
-Academy 2024
+Academy 2025
