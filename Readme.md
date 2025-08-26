@@ -70,7 +70,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Shakia Krisna](https://github.com/shakiakrisss) [SAA]
   > As an academician.
 - [Alisha Shafira Qolby](https://github.com/lishafira) [LIS]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [scadeium.vercel.app](https://scadeium.vercel.app/)
 - [Rizal Khairul Hashfi](https://github.com/zalhashfi) [ZAL]
   > As an academician.
 - [Zidane Ramadhan](https://github.com/zidanermdh) [ZII]
