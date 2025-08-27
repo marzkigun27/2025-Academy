@@ -79,6 +79,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Daffa Alwan Aziz](https://github.com/DNALWANA). [DNA]
   > As an academician
+  > Website link -> [Daffalwana.vercel.app](https://first-web-porto.vercel.app/)
 - [Muhammad Hilman Dzakwanurrofiq](https://github.com/HilmanRofiq) [SKY]
   > As an academician
 - [Syahidah Asma Amanina](https://github.com/syahidahaa) [SYA]
