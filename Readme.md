@@ -22,7 +22,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [adhimf.my.id](https://adhimf.my.id/)
 - [Iga Narendra Pramawijaya](https://github.com/IritaSee) [AND]
   > As a mentor  
-  > Website link -> [iganarendra.my.id](https://iganarendra.my.id/)
+  > Website link -> [pukulenam.id](https://pukulenam.id/)
 - [Muhammad Fakhri Putra Supriyadi](https://github.com/fakhrip) [FAI]
   > As a mentor  
   > Website link -> [thatwas.fun](https://thatwas.fun/)
@@ -62,14 +62,39 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [showmemycent.vercel.app](https://showmemycent.vercel.app/)
 - [Mochamad Dzikra Auliansyah](https://github.com/Modzarella) [ZET]
   > As an academician.
+  > Website link -> [modzarella.vercel.app](https://modzarella.vercel.app/)
 - [Ahmad Syifa](https://github.com/Guaritore79) [GTR]
   > As an academician.  
-  > Website link -> [porto](https://drive.google.com/drive/u/3/folders/1FWJvRj1BvQoMlW9vZvJQ2-5YC8iB5psf)
-
-- [Ahmad Syifa](https://github.com/Guaritore79) [GTR]
+  > Website link -> [Web Profile](https://web-profile-gtr.vercel.app/)
+- [Avinda Novencia Vincent](https://github.com/AvindaNoven) [AVD]
+  > As an academician.
+- [Shakia Krisna](https://github.com/shakiakrisss) [SAA]
+  > As an academician.
+- [Alisha Shafira Qolby](https://github.com/lishafira) [LIS]
   > As an academician.  
-  > Website link -> [Portofolio](https://drive.google.com/drive/u/3/folders/1FWJvRj1BvQoMlW9vZvJQ2-5YC8iB5psf)
-
+  > Website link -> [scadeium.vercel.app](https://scadeium.vercel.app/)
+- [Rizal Khairul Hashfi](https://github.com/zalhashfi) [ZAL]
+  > As an academician.
+- [Zidane Ramadhan](https://github.com/zidanermdh) [ZII]
+  > As an academician.
+- [Kayla Priskila Adalia Peranginangin](https://github.com/kaylaperanginangin) [KAY]
+  > As an academician.
+- [Daffa Alwan Aziz](https://github.com/DNALWANA). [DNA]
+  > As an academician
+  > Website link -> [Daffalwana.vercel.app](https://first-web-porto.vercel.app/)
+- [Muhammad Hilman Dzakwanurrofiq](https://github.com/HilmanRofiq) [SKY]
+  > As an academician
+- [Syahidah Asma Amanina](https://github.com/syahidahaa) [SYA]
+  > As an academician
+- [Azzachra Keysha Ramadhani M.S](https://github.com/azzachrakeysha) [KEY]
+  > As an academician
+- [Angeluna Ramadhani](https://github.com/anglnarmdhn) [LUN]
+  > As an academician
+- [Azka Erlangga Putra](https://github.com/joeldzka) [ZKA]
+  > As an academician
+- [Mirzaldi Pasha](https://github.com/ashx360) [ASH]
+  > As an academician.  
+  > Website link -> [ashx360.vercel.app](https://ashx360.vercel.app)
 
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2025 <br> Building Skills for Tomorrow's Tech Leaders</p>
