@@ -62,6 +62,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [showmemycent.vercel.app](https://showmemycent.vercel.app/)
 - [Mochamad Dzikra Auliansyah](https://github.com/Modzarella) [ZET]
   > As an academician.
+  > Website link -> [modzarella.vercel.app](https://modzarella.vercel.app/)
 - [Ahmad Syifa](https://github.com/Guaritore79) [GTR]
   > As an academician.  
   > Website link -> [Portofolio](https://drive.google.com/drive/u/3/folders/1FWJvRj1BvQoMlW9vZvJQ2-5YC8iB5psf)
