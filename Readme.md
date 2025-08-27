@@ -75,6 +75,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [scadeium.vercel.app](https://scadeium.vercel.app/)
 - [Rizal Khairul Hashfi](https://github.com/zalhashfi) [ZAL]
   > As an academician.
+  > Website link -> [zalll-porto.vercel.app](https://zalll-porto.vercel.app/)
 - [Zidane Ramadhan](https://github.com/zidanermdh) [ZII]
   > As an academician.
 - [Kayla Priskila Adalia Peranginangin](https://github.com/kaylaperanginangin) [KAY]
