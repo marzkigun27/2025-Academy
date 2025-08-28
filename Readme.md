@@ -65,7 +65,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [modzarella.vercel.app](https://modzarella.vercel.app/)
 - [Ahmad Syifa](https://github.com/Guaritore79) [GTR]
   > As an academician.  
-  > Website link -> [Portofolio](https://drive.google.com/drive/u/3/folders/1FWJvRj1BvQoMlW9vZvJQ2-5YC8iB5psf)
+  > Website link -> [Web Profile](https://web-profile-gtr.vercel.app/)
 - [Avinda Novencia Vincent](https://github.com/AvindaNoven) [AVD]
   > As an academician.
 - [Shakia Krisna](https://github.com/shakiakrisss) [SAA]
@@ -96,6 +96,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Mirzaldi Pasha](https://github.com/ashx360) [ASH]
   > As an academician.  
   > Website link -> [ashx360.vercel.app](https://ashx360.vercel.app)
+
 
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2025 <br> Building Skills for Tomorrow's Tech Leaders</p>
