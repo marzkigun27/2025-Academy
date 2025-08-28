@@ -96,6 +96,10 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Mirzaldi Pasha](https://github.com/ashx360) [ASH]
   > As an academician.  
   > Website link -> [ashx360.vercel.app](https://ashx360.vercel.app)
+- [Stefanus Indra Prasetya]
+  (https://github.com/stefindpras)
+  > As an academician.
+  > Website link -> https://stefinpras.github.io/Website-personal/
 
 
 <div align="center">
