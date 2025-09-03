@@ -80,6 +80,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Kayla Priskila Adalia Peranginangin](https://github.com/kaylaperanginangin) [KAY]
   > As an academician.
+  > Website link -> [kaylapriskila-site.vercel.app](https://kaylapriskila-site.vercel.app/)
 - [Daffa Alwan Aziz](https://github.com/DNALWANA). [DNA]
   > As an academician
   > Website link -> [Daffalwana.vercel.app](https://first-web-porto.vercel.app/)
@@ -96,6 +97,11 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Mirzaldi Pasha](https://github.com/ashx360) [ASH]
   > As an academician.  
   > Website link -> [ashx360.vercel.app](https://ashx360.vercel.app)
+- [Stefanus Indra Prasetya]
+  (https://github.com/stefinpras)
+  > As an academician.
+  > Website link -> https://stefinpras.github.io/Website-personal/
+
 
 
 <div align="center">
