@@ -1,6 +1,6 @@
 # 2025-Academy
 
-Welcome all of you future star candidates who want to strive to attend the academy this year (2024). In this repository, there will be many things that will be used as references and/or archives that will be used during this academy. GLHF!
+Welcome all of you future star candidates who want to strive to attend the academy this year (2025). In this repository, there will be many things that will be used as references and/or archives that will be used during this academy. GLHF!
 
 ---
 
@@ -94,14 +94,14 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician
 - [Azka Erlangga Putra](https://github.com/joeldzka) [ZKA]
   > As an academician
+- [Muhamad Rafi Ramadhan](https://github.com/rafirmdhaan) [API]
+  > As an academician
 - [Mirzaldi Pasha](https://github.com/ashx360) [ASH]
   > As an academician.  
   > Website link -> [ashx360.vercel.app](https://ashx360.vercel.app)
-- [Stefanus Indra Prasetya]
-  (https://github.com/stefinpras)
+- [Stefanus Indra Prasetya](https://github.com/stefinpras) [TEF]
   > As an academician.
   > Website link -> https://stefinpras.github.io/Website-personal/
-
 
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2025 <br> Building Skills for Tomorrow's Tech Leaders</p>
