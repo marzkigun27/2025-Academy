@@ -1,6 +1,6 @@
 # 2025-Academy
 
-Welcome all of you future star candidates who want to strive to attend the academy this year (2024). In this repository, there will be many things that will be used as references and/or archives that will be used during this academy. GLHF!
+Welcome all of you future star candidates who want to strive to attend the academy this year (2025). In this repository, there will be many things that will be used as references and/or archives that will be used during this academy. GLHF!
 
 ---
 
@@ -62,23 +62,28 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [showmemycent.vercel.app](https://showmemycent.vercel.app/)
 - [Mochamad Dzikra Auliansyah](https://github.com/Modzarella) [ZET]
   > As an academician.
+  > Website link -> [modzarella.vercel.app](https://modzarella.vercel.app/)
 - [Ahmad Syifa](https://github.com/Guaritore79) [GTR]
   > As an academician.  
-  > Website link -> [Portofolio](https://drive.google.com/drive/u/3/folders/1FWJvRj1BvQoMlW9vZvJQ2-5YC8iB5psf)
+  > Website link -> [Web Profile](https://web-profile-gtr.vercel.app/)
 - [Avinda Novencia Vincent](https://github.com/AvindaNoven) [AVD]
   > As an academician.
 - [Shakia Krisna](https://github.com/shakiakrisss) [SAA]
   > As an academician.
 - [Alisha Shafira Qolby](https://github.com/lishafira) [LIS]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [scadeium.vercel.app](https://scadeium.vercel.app/)
 - [Rizal Khairul Hashfi](https://github.com/zalhashfi) [ZAL]
   > As an academician.
+  > Website link -> [zalll-porto.vercel.app](https://zalll-porto.vercel.app/)
 - [Zidane Ramadhan](https://github.com/zidanermdh) [ZII]
   > As an academician.
 - [Kayla Priskila Adalia Peranginangin](https://github.com/kaylaperanginangin) [KAY]
   > As an academician.
+  > Website link -> [kaylapriskila-site.vercel.app](https://kaylapriskila-site.vercel.app/)
 - [Daffa Alwan Aziz](https://github.com/DNALWANA). [DNA]
   > As an academician
+  > Website link -> [Daffalwana.vercel.app](https://first-web-porto.vercel.app/)
 - [Muhammad Hilman Dzakwanurrofiq](https://github.com/HilmanRofiq) [SKY]
   > As an academician
 - [Syahidah Asma Amanina](https://github.com/syahidahaa) [SYA]
@@ -91,6 +96,12 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician
 - [Muhamad Rafi Ramadhan](https://github.com/rafirmdhaan) [API]
   > As an academician
+- [Mirzaldi Pasha](https://github.com/ashx360) [ASH]
+  > As an academician.  
+  > Website link -> [ashx360.vercel.app](https://ashx360.vercel.app)
+- [Stefanus Indra Prasetya](https://github.com/stefinpras) [TEF]
+  > As an academician.
+  > Website link -> https://stefinpras.github.io/Website-personal/
 
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2025 <br> Building Skills for Tomorrow's Tech Leaders</p>
